@@ -1,0 +1,5 @@
+*.tex
+*.csv
+*/.ipynb_checkpoints
+/common
+RK1/rk_files
